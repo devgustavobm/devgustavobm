@@ -1,5 +1,5 @@
 ### Olá! Muito prazer, eu sou o Gustavo. 👋
-Estudante focado em aprender todo dia para a criação de novas ideias e projetos.
+Estudante focado em aprender para a criação de novas ideias e projetos.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-bernardi-mendon%C3%A7a-a01228252/)
 
